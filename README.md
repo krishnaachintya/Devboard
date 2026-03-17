@@ -34,3 +34,4 @@ in the format of a rpi pico
 | 19 | R6                                          | 1        | 10K                    | $1                  |
 | 20 | R2,R1                                       | 2        | 5.1K                   | $1                  |
 | 21 | C19                                         | 1        | 10nF                   | $1                  |
+| 22 | Total                                       |          |                        | $45 including shipping|
