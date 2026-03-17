@@ -11,7 +11,7 @@ in the format of a rpi pico
 
 # BOM
 
-| Id | Designator                                  | Quantity | Comment                | Rounded Price (USD) |
+| Id | Designator                                  | Quantity | Comment                |     Price (USD)     |
 | -- | ------------------------------------------- | -------- | ---------------------- | ------------------- |
 | 1  | R5,R7                                       | 2        | 1K                     | $1                  |
 | 2  | C16,C15                                     | 2        | 33pF                   | $1                  |
